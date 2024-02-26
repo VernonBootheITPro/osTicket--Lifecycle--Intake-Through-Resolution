@@ -45,4 +45,4 @@ The ticket will be an Emergency level, we will asign the ticket, and Layla will 
 
 We have contacted Dimitri on the outage in a timely manner, kept in communication, and resolved the issue.
 
-On the [next tutorial](https://github.com/fnabeel/configure-ad) series, it will go over features in Microsoft Azure starting with configuring active directories.
+On the [next tutorial](https://github.com/VernonBootheITPro/Configure-AD) series, it will go over features in Microsoft Azure starting with configuring active directories.
